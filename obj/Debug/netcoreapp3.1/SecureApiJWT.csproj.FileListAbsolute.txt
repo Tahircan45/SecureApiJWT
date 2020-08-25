@@ -25,5 +25,10 @@ C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\bin\Debug\netcoreapp3.
 C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\obj\Debug\netcoreapp3.1\SecureApiJWT.csproj.CoreCompileInputs.cache
+C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\obj\Debug\netcoreapp3.1\SecureApiJWT.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Tahir Can\source\repos\SecureApiJWT\SecureApiJWT\obj\Debug\netcoreapp3.1\SecureApiJWT.MvcApplicationPartsAssemblyInfo.cache

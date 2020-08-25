@@ -22,6 +22,8 @@ namespace SecureApiJWT
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSwaggerGen();
+
             var Key = "this my test key";
             services.AddControllers();
             services.AddSingleton<IJWTAuthManager>(new JWTAuthManager(Key));
@@ -54,9 +56,13 @@ namespace SecureApiJWT
             }
 
             app.UseHttpsRedirection();
-
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+            });
             app.UseRouting();
-
+            
             app.UseAuthentication();
             app.UseAuthorization();
 
